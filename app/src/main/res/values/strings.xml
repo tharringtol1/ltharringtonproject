@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ltharringtonproject</string>
+    <string name="logo_name">*Welcome to the Meditation App* </string>
+    <string name="jump">Image</string>
+    <string name="yoga">Image2</string>
+    <string name="btn1">Login</string>
+    <string name="btn2">Register</string>
+    <string name="logintxt">Already a member? Click the Login button below</string>
+    <string name="registertxt"> Please click register if you not a member</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register_below">Not a member? Register below</string>
+    <string name="fname">firstname</string>
+    <string name="lname">lastname</string>
+    <string name="dob">dob</string>
+    <string name="signup">signup</string>
+    <string name="loginbtn">Login</string>
+    <string name="welcome_member">Welcome Member</string>
+
+
+</resources>
